@@ -1,0 +1,8 @@
+E:\103407\02052015\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe.config
+E:\103407\02052015\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.Form1.resources
+E:\103407\02052015\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.Properties.Resources.resources
+E:\103407\02052015\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.csproj.GenerateResource.Cache
+E:\103407\02052015\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe
+E:\103407\02052015\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.pdb
+E:\103407\02052015\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+E:\103407\02052015\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb
